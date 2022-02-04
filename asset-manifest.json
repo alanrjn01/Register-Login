@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Register-Login/static/css/main.5740cf87.css",
+    "main.js": "/Register-Login/static/js/main.93995fa2.js",
+    "index.html": "/Register-Login/index.html",
+    "main.5740cf87.css.map": "/Register-Login/static/css/main.5740cf87.css.map",
+    "main.93995fa2.js.map": "/Register-Login/static/js/main.93995fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.93995fa2.js"
+  ]
+}
